@@ -70,6 +70,13 @@
 - Linear combinations 
     - A vector is a linear combinations of the vectors if all real numbers there exist scalars 
 
+# Linear Combinations 
 
+- Algebraic properties 
+    - A is an n x m matrix where vector x and y in all real numbers and k is an scalar 
+
+# Linear Transformations 
+
+- Multiplying matrices 
 
 
